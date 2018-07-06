@@ -14,23 +14,23 @@ import time,random,sys,json,codecs,threading,glob,re,os,subprocess
 #ale.log("Auth Token : " + str(ale.authToken))
 #ale.log("Timeline Token : " + str(ale.tl.channelAccessToken))
 
-ale = LINE("ErrMqVsRNiedypad4lnc.wAsBzKxje3PMXUvNCCeata.UXQRz4DmuOex3Wgv7/I/z76aQbvdN/4RbUxISojaNI8=")
+ale = LINE()
 ale.log("Auth Token : " + str(ale.authToken))
 ale.log("Timeline Token : " + str(ale.tl.channelAccessToken) + "\n")
 
-ale1 = LINE("ErrMqVsRNiedypad4lnc.wAsBzKxje3PMXUvNCCeata.UXQRz4DmuOex3Wgv7/I/z76aQbvdN/4RbUxISojaNI8=")
+ale1 = LINE()
 ale1.log("Auth Token : " + str(ale1.authToken))
 ale1.log("Timeline Token : " + str(ale1.tl.channelAccessToken) + "\n")
 
-ale2 = LINE("ErrMqVsRNiedypad4lnc.wAsBzKxje3PMXUvNCCeata.UXQRz4DmuOex3Wgv7/I/z76aQbvdN/4RbUxISojaNI8=")
+ale2 = LINE()
 ale2.log("Auth Token : " + str(ale2.authToken))
 ale2.log("Timeline Token : " + str(ale2.tl.channelAccessToken) + "\n")
 
-ale3 = LINE("ErrMqVsRNiedypad4lnc.wAsBzKxje3PMXUvNCCeata.UXQRz4DmuOex3Wgv7/I/z76aQbvdN/4RbUxISojaNI8=")
+ale3 = LINE()
 ale3.log("Auth Token : " + str(ale3.authToken))
 ale3.log("Timeline Token : " + str(ale3.tl.channelAccessToken) + "\n")
 
-ale4 = LINE("ErrMqVsRNiedypad4lnc.wAsBzKxje3PMXUvNCCeata.UXQRz4DmuOex3Wgv7/I/z76aQbvdN/4RbUxISojaNI8=")
+ale4 = LINE()
 ale4.log("Auth Token : " + str(ale4.authToken))
 ale4.log("Timeline Token : " + str(ale4.tl.channelAccessToken))
 
